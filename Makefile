@@ -1,2 +1,2 @@
 say-hello:
-	print("Hello, world!")
+	echo 'Hello, world!'
